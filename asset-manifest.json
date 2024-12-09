@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tour-With-Us/static/css/main.5cc7070d.css",
+    "main.js": "/Tour-With-Us/static/js/main.18cd1277.js",
+    "index.html": "/Tour-With-Us/index.html",
+    "main.5cc7070d.css.map": "/Tour-With-Us/static/css/main.5cc7070d.css.map",
+    "main.18cd1277.js.map": "/Tour-With-Us/static/js/main.18cd1277.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cc7070d.css",
+    "static/js/main.18cd1277.js"
+  ]
+}
