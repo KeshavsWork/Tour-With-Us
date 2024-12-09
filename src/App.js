@@ -8,7 +8,7 @@ const App = () => {
 
   function removeTour(id) {
     const newTours = tours.filter(tour => tour.id !== id);
-    setTours(newTours);
+    setTours(newTours)
   }
 
   if(tours.length === 0) {
